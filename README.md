@@ -8,5 +8,5 @@
 <p>Contact information</p>
 
 <p> Name: Mason Brown</p>
-<p> Student email: s3876704@rmit.edu.au </p>
+<p> Email: s3876704@rmit.edu.au </p>
 <p> 
