@@ -1,4 +1,4 @@
-#Maosn Brown Webpage
+#Mason Brown Webpage
 
 
 <h1>My Profile</h1>
