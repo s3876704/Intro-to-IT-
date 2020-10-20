@@ -3,12 +3,12 @@
 
 <h1>My Profile</h1>
 
-<p>Mason Brown</p>
-
-<p>Contact information</p>
+<h2>Personal Information</h2>
 
 <p>Name: Mason Brown</p>
 
-<p>Student email: s3876704@rmit.edu.au</p>
-<p> 
+<p>Student ID S3876704</p>
+
+<p>Email: s3876704@student.rmit.edu.au</p>
+
 <img src="Mason profile pic.jpg" width="300" height="333"> 
