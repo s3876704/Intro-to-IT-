@@ -1,9 +1,5 @@
 https://s3876704.github.io/Intro-to-IT-/
 
-<html>
-<head>
-</head>
-<body>
 
 <h1>My Profile</h1>
 
