@@ -25,7 +25,7 @@
 
 <h2>Ideal Job</h2>
 
-<p>https://www.seek.com.au/job/50554685?type=standout#searchRequestToken=191ac86c-a454-43b8-8cd9-00d4b62f936ahttps://www.seek.com.au/job/50554685?type=standout#searchRequestToken=191ac86c-a454-43b8-8cd9-00d4b62f936a</p>
+<p><a href="https://www.seek.com.au/job/50554685?type=standout#searchRequestToken=191ac86c-a454-43b8-8cd9-00d4b62f936ahttps://www.seek.com.au/job/50554685?type=standout#searchRequestToken=191ac86c-a454-43b8-8cd9-00d4b62f936a">View Job Online!</a></p>
 
 <img src="Mason job.png" width="500" height="333">
 
