@@ -1,5 +1,5 @@
 #Mason Brown Webpage
-<!DOCTYPE html>
+
 <html>
 <head>
 </head>
