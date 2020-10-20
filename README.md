@@ -24,7 +24,7 @@
 
 <p>https://www.seek.com.au/job/50554685?type=standout#searchRequestToken=191ac86c-a454-43b8-8cd9-00d4b62f936ahttps://www.seek.com.au/job/50554685?type=standout#searchRequestToken=191ac86c-a454-43b8-8cd9-00d4b62f936a</p>
 
-<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
+<img src="Mason job.jpg" width="500" height="333">
 
 <p>The position of this job is self-employment, working for a self-employment is really good because you have a lot of responsibility. This job appeals to me because you can work from home and do troubleshooting. The skill set you need to be able to do is work with mac + IOS, Android, etc. be able to diagnose, troubleshoot, great customer support. The skills that I currently have are, building desktops, very little knowledge on java and troubleshooting. How will I get the skills and qualification that I would need are, learning how to use voltage as I don’t have a clue to use it.</p>
 
