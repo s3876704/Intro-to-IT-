@@ -4,3 +4,9 @@
 <h1>My Profile</h1>
 
 <p>Mason Brown</p>
+
+<p>Contact information</p>
+
+<p> Name: Mason Brown</p>
+<p> Student email: s3876704@rmit.edu.au </p>
+<p> 
