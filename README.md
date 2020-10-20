@@ -11,4 +11,4 @@
 
 <p>Student email: s3876704@rmit.edu.au</p>
 <p> 
-<img src="Mason profile pic.jpg" width="500" height="333"> 
+<img src="Mason profile pic.jpg" width="400" height="333"> 
