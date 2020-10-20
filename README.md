@@ -17,6 +17,7 @@
 
 <img src="Mason profile pic.jpg" width="300" height="333"> 
 
+<h2>Interest in IT</h2>
 
 <p>Hello everyone my name is Mason, today I’ll be talking about myself about what I have interest in IT. Initially I was interested playing video games on the desktop which led me to undertake a certificate 3 in IT and completed it in 2019. I am over fascinated with building, upgrading/modification and servicing computers so they can work. I am furthering my studies to upgrade my skills and knowledge on computers as I would like to be able to work in the IT industry and make new friends. When I was younger, I wasn’t quite sure what I wanted to do, I had no Idea what I was doing but at the time I was interested in building projects at my school and playing video games on the ps4. I have chosen to study with RMIT because when I started doing diploma at Tafe it was very hard and confusing.</p>
 
