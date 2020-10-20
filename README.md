@@ -34,5 +34,5 @@
 
 <p>The results from the tests means to me doesn’t really mean anything because over years people change so my answer might never be the same but it might. I think that the results may influence my behavior in a group team might be good because I will always keep asking questions that are more like ‘what if it doesn’t work?’ or ‘will it work’, ‘how does it work?’, etc. I can that this knowledge from the creativity test and work on getting better with interacting with people more often and more get involved with other people.</p>
 
-<img src="Mason profile.png" width="500" height="333">
+<img src="Mason profile.png" width="700" height="333">
 
